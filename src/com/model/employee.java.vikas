@@ -1,0 +1,10 @@
+package com.model;
+
+public class employee {
+private int empid;
+private String name;
+private String ssn;
+private double salary;
+
+     
+}
